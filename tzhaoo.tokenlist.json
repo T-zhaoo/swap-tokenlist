@@ -1,0 +1,27 @@
+{
+  "name": "t-zhaoo",
+  "logoURI": "https://defiprime.com/images/defiprime-logo-hires2.png",
+  "keywords": ["Defi", "defiprime", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Tokens",
+      "description": "Tokens associated with the products listed at defiprime.com"
+    }
+  },
+  "timestamp": "2024-05-30T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x1b83247477e2a9c18310b65873dab6ea958d58f5",
+      "symbol": "KK",
+      "name": "KKdao",
+      "decimals": 18,
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 47,
+    "patch": 0
+  }
+}
